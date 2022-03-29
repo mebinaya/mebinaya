@@ -48,7 +48,7 @@ I work as a software developer. 💻
 </tbody>
 </table>
 
-    <img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
+<img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
     
 #### <p align="center"> Thank You </p>
 
