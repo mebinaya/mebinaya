@@ -13,7 +13,6 @@ I work as a software developer. 💻
 [Download Resume](https://sharmabinaya.com.np/)
 
 ![Binaya's github stats](https://github-readme-stats.vercel.app/api?username=mebinaya&count_private=true&show_icons=true&theme=dark)<a href="https://github.com/mebinaya">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mebinaya&layout=compact&theme=dark)](https://github.com/mebinaya)</a>
-
 ## Languages and Tools:
 <br/>
 <center>
@@ -24,6 +23,17 @@ I work as a software developer. 💻
 <td align="center" width="25%">
 <span><b><center>Python</center></b></span><br/> 
 <img height=75px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+
+   
+<td align="center" width="30%">
+<span><b><center>OpenCV</center></b></span><br/>  
+<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
+</td>
+
+<td align="center" width="25%">
+<span><b><center>PyTorch</center></b></span><br/> 
+<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
 </td>
 
 <td align="center" width="25%">
@@ -55,6 +65,17 @@ I work as a software developer. 💻
 
 </tr>
 
+<tr>
+<td align="center" width="25%">
+<span><b><center>Tensorflow</center></b></span> <br/>
+<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
+</td> 
+
+<td align="center" width="25%">
+<span><b><center>Keras</center></b></span> <br/>
+<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
+</td>
+
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
@@ -77,7 +98,6 @@ I work as a software developer. 💻
 
 </tbody>
 </table>
-
 
 #### <p align="center"> Thank You </p>
 <img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
