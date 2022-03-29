@@ -27,11 +27,6 @@ I work as a software developer. 💻
 </td>
 
 <td align="center" width="25%">
-<span><b><center>PyTorch</center></b></span><br/> 
-<img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
-</td>
-
-<td align="center" width="25%">
 <span><b><center>Notebook</center></b></span><br/>  
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
 </td>
