@@ -35,7 +35,6 @@ I work as a software developer. 💻
 <span><b><center>Notebook</center></b></span><br/>  
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png"> 
 </td>
-</tr>
 
 <td align="center" width="25%">
 <span><b><center>Sklearn</center></b></span><br/> 
@@ -63,7 +62,6 @@ I work as a software developer. 💻
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </td>
 
-<tr>
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/linux.png"/>
@@ -71,13 +69,10 @@ I work as a software developer. 💻
 
 </td>
 
-</tr>
-<tr>
  <td align="center" width="25%">
 <span><b><center>Git</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
-</tr>
 
 </tbody>
 </table>
