@@ -26,12 +26,6 @@ I work as a software developer. 💻
 <img height=75px src="https://img.icons8.com/color/2x/python.png"> 
 </td>
 
-   
-<td align="center" width="30%">
-<span><b><center>OpenCV</center></b></span><br/>  
-<img height=75px src="https://img.icons8.com/color/2x/opencv.png"> 
-</td>
-
 <td align="center" width="25%">
 <span><b><center>PyTorch</center></b></span><br/> 
 <img height=75px src="https://pytorch.org/assets/images/pytorch-logo.png"> 
@@ -66,17 +60,6 @@ I work as a software developer. 💻
 
 </tr>
 
-<tr>
-<td align="center" width="25%">
-<span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
-</td> 
-
-<td align="center" width="25%">
-<span><b><center>Keras</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
-</td>
-
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
@@ -104,9 +87,5 @@ I work as a software developer. 💻
     
 <img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
 
-🐍 **Snake eating my contribution graph**
-<p align="center">
-  https://github.com/mebinaya/mebinaya/blob/output/github-contribution-grid-snake.gif</center>
-</p>
 
 #### <p align="center"> Thank You </p>
