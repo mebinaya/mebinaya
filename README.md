@@ -19,7 +19,6 @@ I work as a software developer. 💻
 <center>
 <table>
 <tbody align="center">
- <tr>
    
 <td align="center" width="25%">
 <span><b><center>Python</center></b></span><br/> 
@@ -31,7 +30,6 @@ I work as a software developer. 💻
 <img height=75px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
 </td>
      
-     <tr>
      
   <td align="center" width="25%">
 <span><b><center>Java</center></b></span><br/> 
@@ -43,7 +41,7 @@ I work as a software developer. 💻
 <img height=75px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> 
 </td>
          
-    </tr>
+   
 
 
 
