@@ -31,20 +31,26 @@ I work as a software developer. 💻
 <img height=75px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
 </td>
      
+     <tr>
+     
   <td align="center" width="25%">
 <span><b><center>Java</center></b></span><br/> 
-<img height=75px src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"> 
+<img height=75px src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png"> 
 </td>
      
  <td align="center" width="25%">
 <span><b><center>SQL Server</center></b></span><br/> 
 <img height=75px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> 
 </td>
+         
+    </tr>
 
 
 
 </tbody>
 </table>
 
+    <img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
+    
 #### <p align="center"> Thank You </p>
-<img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
+
