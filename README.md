@@ -84,3 +84,4 @@ I work as a software developer. 💻
 
 
 #### <p align="center"> Thank You </p>
+<img src="https://visitor-badge.glitch.me/badge?page_id=ghimiresunil.ghimiresunil" alt="Visitors Counter">
