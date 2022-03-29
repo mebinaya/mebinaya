@@ -37,12 +37,12 @@ I work as a software developer. 💻
 </td>
 </tr>
 
-<tr> 
 <td align="center" width="25%">
 <span><b><center>Sklearn</center></b></span><br/> 
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1200px-Scikit_learn_logo_small.svg.png"> 
 </td>
 
+ <tr> 
 <td align="center" width="25%">
 <span><b><center>NumPy</center></b></span> <br/>
 <img height=75px src="https://cdn.worldvectorlogo.com/logos/numpy.svg"> 
@@ -58,24 +58,12 @@ I work as a software developer. 💻
 <img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png"/>                             
 </td>
 
-</tr>
-
-<tr>
-<td align="center" width="25%">
-<span><b><center>Tensorflow</center></b></span> <br/>
-<img height=75px src="https://miro.medium.com/max/957/0*69C0hxf9NluTCPVl.png">
-</td> 
-
-<td align="center" width="25%">
-<span><b><center>Keras</center></b></span> <br/>
-<img height=75px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png"> 
-</td>
-
 <td align="center" width="25%">
 <span><b><center>MySQL</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/mysql.png"/>
 </td>
 
+<tr>
 <td align="center" width="25%">
 <span><b><center>Linux</center></b></span> <br/>
 <img height=75px src="https://img.icons8.com/color/48/000000/linux.png"/>
