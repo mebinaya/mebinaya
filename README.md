@@ -12,7 +12,7 @@ I work as a software developer. 💻
 
 [Download Resume](https://sharmabinaya.com.np/)
 
-[![Binaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mebinaya)](https://github.com/mebinaya/github-readme-stats)(https://github.com/mebinaya)</a>
+![Binaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mebinaya&show_icons=true&theme=radical)
 
 ## Languages and Tools:
 <br/>
