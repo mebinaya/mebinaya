@@ -106,7 +106,7 @@ I work as a software developer. 💻
 
 🐍 **Snake eating my contribution graph**
 <p align="center">
-  <img src="https://github.com/mebinaya/mebinaya/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  https://github.com/mebinaya/mebinaya/blob/output/github-contribution-grid-snake.gif</center>
 </p>
 
 #### <p align="center"> Thank You </p>
