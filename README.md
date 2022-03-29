@@ -27,8 +27,18 @@ I work as a software developer. 💻
 </td>
 
 <td align="center" width="25%">
-<span><b><center>C#</center></b></span><br/> 
+<span><b><center>C Sharp</center></b></span><br/> 
 <img height=75px src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"> 
+</td>
+     
+  <td align="center" width="25%">
+<span><b><center>Java</center></b></span><br/> 
+<img height=75px src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png"> 
+</td>
+     
+ <td align="center" width="25%">
+<span><b><center>SQL Server</center></b></span><br/> 
+<img height=75px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> 
 </td>
 
 
