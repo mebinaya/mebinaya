@@ -14,6 +14,8 @@ I work as a software developer. 💻
 
 ![Binaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mebinaya&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mebinaya&layout=compact)](https://github.com/mebinaya/github-readme-stats)
+
 ## Languages and Tools:
 <br/>
 <center>
