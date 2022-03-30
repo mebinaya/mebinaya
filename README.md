@@ -7,7 +7,7 @@
   <a href="https://www.instagram.com/sbinaya_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p> -->
-<p>
+
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
@@ -17,7 +17,7 @@
 <a href="mailto:mebinayasharma@gmail.com"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-gmail-48.png"></a>
 <a href="https://sharmabinaya.com.np"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-website-48.png"></a>
 </p>
-    </p>
+
 
 - 👀 Data Science, data visualization, and analysis are areas of interest for me.
 - 🌱 I’m currently learning React.js.
