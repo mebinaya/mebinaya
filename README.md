@@ -1,12 +1,24 @@
 ### Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/) 
 
-<p>
+<!-- <p>
     <a href="mailto:mebinayasharma@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://twitter.com/binayasharma_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/binayasharma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/sbinaya_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
+</p> -->
+<p>
+    ## Connect with me:
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/binayasharma_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/sbinaya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.youtube.com/channel/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href="mailto:mebinayasharma@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
+<a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
+    </p>
 
 - 👀 Data Science, data visualization, and analysis are areas of interest for me.
 - 🌱 I’m currently learning React.js.
