@@ -6,13 +6,13 @@
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me (m.me/mebinayasharma or mebinayasharma@gmail.com)
 
-<p>
+<center> <p>
     <a href="mailto:mebinayasharma@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
   <a href="https://twitter.com/binayasharma_"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a>
   <a href="https://www.linkedin.com/in/binayasharma/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://www.instagram.com/sbinaya_/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
   <a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
-</p>
+</p> </center>
 
 [Download Resume](https://sharmabinaya.com.np/)
 
