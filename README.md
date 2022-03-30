@@ -63,4 +63,6 @@
 #### <p align="center"> Thank You </p>
 
 <!--     https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
-![snake gif](https://github.com/mebinaya/mebinaya/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://github.com/mebinaya/mebinaya/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
