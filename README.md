@@ -10,7 +10,7 @@
 <p>
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
 <a href = "https://twitter.com/binayasharma_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sbinaya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
