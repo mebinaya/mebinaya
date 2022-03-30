@@ -1,6 +1,6 @@
 ### Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/) 
 
-<p align="right">
+<p align="center">
 <a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
 <a href = "https://twitter.com/binayasharma_"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-twitter-48.png"/></a>
 <a href = "https://www.instagram.com/sbinaya_/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-instagram-48.png"/></a>
