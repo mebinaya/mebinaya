@@ -14,8 +14,8 @@
 <a href = "https://twitter.com/binayasharma_"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/sbinaya_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href="mailto:mebinayasharma@gmail.com"><img src="https://image.similarpng.com/very-thumbnail/2021/09/Gmail-icon-design-template-on-transparent-background-PNG.png"></a>
-<a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
+<a href="mailto:mebinayasharma@gmail.com"><img src="https://img.icons8.com/fluency/344/gmail-new.png"></a>
+<a href="https://sharmabinaya.com.np"><img src="https://img.icons8.com/ios/344/domain.png"></a>
 </p>
     </p>
 
