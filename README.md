@@ -60,7 +60,7 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=mebinaya.mebinaya" alt="Visitors Counter">
     
-#### <p align="center"> Thank You </p>
+#### <p align="center"> Thank you for visiting my github repository. </p>
 
 <!--     https://dev.to/mishmanners/how-to-enable-github-actions-on-your-profile-readme-for-a-contribution-graph-4l66 -->
 <p align="center">
