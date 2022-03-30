@@ -8,6 +8,9 @@
   <a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p>
 
+<li> <a href="https://www.instagram.com/sbinaya_" target="_blank" rel="noopener noreferrer"><span class="ico-circle"><i class="fa fa-instagram"></i></span></a></li>
+
+
 I work as a software developer. 💻
 
 [Download Resume](https://sharmabinaya.com.np/)
