@@ -23,7 +23,8 @@
 
 ![Binaya's github stats](https://github-readme-stats.vercel.app/api?username=mebinaya&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/mebinaya">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mebinaya&layout=compact&theme=dark)](https://github.com/mebinaya)</a>
 
-<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=narayanbavisetti&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/mebinaya/github-readme-activity-graph"><img alt="Binaya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?
+username=mebinaya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 ## Languages and Tools:
 <br/>
