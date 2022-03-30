@@ -8,7 +8,6 @@
   <a href="https://sharmabinaya.com.np"><img src="https://img.shields.io/badge/website-25D366?style=for-the-badge&logo=website&logoColor=white" height=25></a>
 </p> -->
 <p>
-    ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
