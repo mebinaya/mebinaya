@@ -1,5 +1,5 @@
-### <center> Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/) </center>
-
+### Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/)
+ <center> Fcuk </center>
 <p align="center">
 <a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
 <a href = "https://twitter.com/binayasharma_"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-twitter-48.png"/></a>
@@ -18,10 +18,6 @@
 
 
 [Download Resume](https://sharmabinaya.com.np/)
-
-<!-- ![Binaya's GitHub stats](https://github-readme-stats.vercel.app/api?username=mebinaya&show_icons=true&theme=radical) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mebinaya&layout=compact)](https://github.com/mebinaya/github-readme-stats) -->
 
 ![Binaya's github stats](https://github-readme-stats.vercel.app/api?username=mebinaya&count_private=true&show_icons=true&theme=radical)<a href="https://github.com/mebinaya">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mebinaya&layout=compact&theme=dark)](https://github.com/mebinaya)</a>
 
@@ -54,9 +50,6 @@
 <img height=75px src="https://seeklogo.com/images/M/microsoft-sql-server-logo-96AF49E2B3-seeklogo.com.png"> 
 </td>
          
-   
-
-
 
 </tbody>
 </table>
