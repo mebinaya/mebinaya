@@ -1,4 +1,4 @@
-### Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/) 
+### <center> Hi 👋,  I'm [Binaya Sharma!](https://sharmabinaya.com.np/) </center>
 
 <p align="center">
 <a href = "https://www.linkedin.com/in/binayasharma/"><img src="https://github.com/mebinaya/mebinaya/blob/main/Icons/icons8-linkedin-48.png"/></a>
