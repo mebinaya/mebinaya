@@ -10,7 +10,7 @@
 </p>
 
 
-- [Binaya Sharma!](https://sharmabinaya.com.np/) currently work as a software engineer. 
+- 👀 [Binaya Sharma](https://sharmabinaya.com.np/) currently work as a software engineer. 
 
 [Download Resume](https://sharmabinaya.com.np/)
 
